@@ -1,0 +1,6 @@
+{
+    "url":"ldap://server.domain.local/DC=domain,DC=local",
+    "base":"DC=domain,DC=local",
+    "bindDN":"myADUser",
+    "bindCredentials":"the_password_for_myADUser"
+}
